@@ -1,0 +1,17 @@
+{
+    "stats_per_batch" : 3,
+    "dataset" : "cora",
+    "dataset_path" : "/Users/raunak/Documents/Datasets/Cora",
+    "mode" : "train",
+    "task" : "node_classification",
+    "cuda" : "True",
+    "hidden_dims" : [8],
+    "num_heads" : [8, 1],
+    "dropout" : 0.6,
+    "batch_size" : 140,
+    "epochs" : 200,
+    "lr" : 5e-2,
+    "weight_decay" : 5e-4,
+    "transductive" : "True",
+    "self_loop" : "True"
+}
