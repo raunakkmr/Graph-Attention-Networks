@@ -1,6 +1,3 @@
-# Graph-Attention-Networks
-PyTorch implementation of Graph Attention Networks.
-
 # Graph Attention Networks
 This is a PyTorch implementation of Graph Attention Networks (GAT) from the paper [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf).
 
